@@ -48,7 +48,7 @@ Blogging website for webkriti.
 
 <img  src="./assets/last.png"></img>
 
-### ✨ [Deployed site](http://65.0.100.50/)
+### ✨ [Deployed site](https://unfold.onrender.com/)
 
 # Features Implemented
 
